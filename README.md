@@ -51,12 +51,14 @@ flutter run
 
 ```bash
 lib/
-├── onboarding1.dart
-├── onboarding2.dart
-├── onboarding3.dart
-├── login_screen.dart
-├── otp_screen.dart
 └── main.dart
+└── Screens/
+  ├── onboarding1.dart
+  ├── onboarding2.dart
+  ├── onboarding3.dart
+  ├── login_screen.dart
+  └── otp_screen.dart
+
 ```
 
 ---
