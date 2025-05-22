@@ -101,21 +101,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
+````
+---
+# 📽️ Screensnaps:
+
+
+https://github.com/user-attachments/assets/478ef21e-5a09-4bcf-a2e5-60e3c5da935a
+
+
 ---
 
-### 📽️ To Add Your Screen Recording:
-
-Here’s how to include a screen recording in the GitHub README:
-
-#### 🔹 Option 1: Upload directly to GitHub repo
-1. Record your app screen as `.mp4`
-2. Drag & drop it into a GitHub Issue or Comment (or use the “Upload files” button in the repo)
-3. GitHub will generate a link like:
-```
-
-[https://github.com/sujal-1245/zilmor\_flutter\_app/assets/your-username/unique-id.mp4](https://github.com/sujal-1245/zilmor_flutter_app/assets/your-username/unique-id.mp4)
-
-````
 4. Replace that link in the `README.md` under the `📸 Preview` section.
 
 #### 🔹 Option 2: Use YouTube
