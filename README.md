@@ -82,6 +82,16 @@ lib/
 * Git & GitHub for version control
 
 ---
+# 📽️ Screensnaps:
+
+
+https://github.com/user-attachments/assets/478ef21e-5a09-4bcf-a2e5-60e3c5da935a
+
+
+---
+
+
+---
 
 ## 🙌 Contributing
 
@@ -102,22 +112,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 
 ````
----
-# 📽️ Screensnaps:
-
-
-https://github.com/user-attachments/assets/478ef21e-5a09-4bcf-a2e5-60e3c5da935a
-
-
----
-
-4. Replace that link in the `README.md` under the `📸 Preview` section.
-
-#### 🔹 Option 2: Use YouTube
-1. Upload your screen recording to YouTube
-2. Copy the video ID and embed it using this markdown:
-
-```markdown
-[![Watch the demo](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-````
-
