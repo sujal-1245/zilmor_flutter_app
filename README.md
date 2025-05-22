@@ -20,20 +20,7 @@ Crafted with love to showcase a pixel-perfect mobile UI for a luxury jewelry bra
 
 ---
 
-## 📸 Preview
 
-https://github.com/sujal-1245/zilmor_flutter_app/assets/your-username/your-video-id.mp4
-
-> 📽️ Upload a screen recording of the app running on GitHub, and paste the video link above.  
-> Alternatively, upload it to YouTube and embed the link like this:
-
-```
-
-[![Watch the demo](http://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-````
-
----
 
 ## 🚀 Getting Started
 
@@ -82,7 +69,7 @@ lib/
 * Git & GitHub for version control
 
 ---
-# 📽️ Screensnaps:
+# 📽️ Preview:
 
 
 https://github.com/user-attachments/assets/478ef21e-5a09-4bcf-a2e5-60e3c5da935a
